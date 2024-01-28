@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    /* distancia do elento pro outro */
+    padding: 0;
+    /* distancia do conteudo e borda do elemento*/
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
